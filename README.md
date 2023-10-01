@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Komedyking
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m VAIBHAV SINGH
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning coding
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me discord
 
 <!---
 Komedyking/Komedyking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
